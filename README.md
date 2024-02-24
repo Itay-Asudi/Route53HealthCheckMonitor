@@ -17,7 +17,7 @@
 ## Installation
 a. Clone the repository:
    ```bash
-git clone https://github.com/[YourUsername]/Route53HealthCheckMonitor.git
+git clone https://github.com/Itay-Asudi/Route53HealthCheckMonitor.git
 ```
 b. Navigate to the cloned directory:
 ```bash
